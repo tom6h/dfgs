@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/tom6h/dfgs",
+  "repository": "https://github.com/tom6h/dfgs",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
